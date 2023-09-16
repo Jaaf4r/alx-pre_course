@@ -1,1 +1,1 @@
-This repo is about Git
+This repo is about Git.
